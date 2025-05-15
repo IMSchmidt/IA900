@@ -40,7 +40,9 @@ Que tipo de carga de trabalo de IA você deve usar?
 P2 - Você está usando o serviço de análise de texto para realizar análise de sentimento em um documento. O serviço retornou uma pontuação de 0,5.
 O que essa pontualão indica sobre o sentimento do documento?
 []O documento é posítivo - *A análise de documento classifica documentos positivos como 1*
+
 []O documento é negativo - *A análise de documento classifica documentos negativos como 0*
+
 [X]O documento é neutro - *Opção correta já que está no meio entre positivo e negativo.*
 
 ---------------------------------------------------------------------------
@@ -49,6 +51,22 @@ P3 - Você está construindo um aplicativo baseado em IA e precisa garantir que 
 Quais os dois princípios que você deve seguir?
 
 []Implemente uma metodologia ágil de desenvilvimento de software
+
 [X]Estabeleça um comitê de governança de risco que inclua membros da equipe jurídica, membros da equipe de gestão de risco e um responsável pela privacidade.
+
 [X]Implemente um processo de validação do modelo de IA como parte do processo de revisão de software.
+
 []Impede a divulgação do uso de algoritmos baseados em IA para tomada de decisão automatizada. 
+
+---------------------------------------------------------------------------
+
+Quais são os vários canais possíveis aos quais um bot pode se conectar?
+Selecione todas as opções corretas:
+
+[X]E-mail
+
+[X]Web chat
+
+[X]Alexa
+
+[X]Microsoft Teams
