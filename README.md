@@ -8,7 +8,34 @@ O que precisa saber para tirar essa certificação?
   - Descreva processamento de linguagem natual NLP
   - Descreva IA conversacional no Azure
 
-IA responsável deve:
+IA
+  -LLM - Large Language model - Modelos que aprendem  com aprendizagem profunda, usado para processar e compreender a linguagem natural em grande escla.
+  - Detecção de anomalia
+  - Regreção - usado para prever um valor contínuo (numérico)
+Visão computacional
+IA Conversacional - pode se conectar em diversos ambientes, cp,p WahtsApp, TEAMS, Telegram e muitos outros ambientes de texto.
+
+Linguagem natural 
+  - Análise de esentimentos
+    - Valor 1 - Sentimento Positivo
+    - Valor 0,5 - Sentimento Neutro
+    - Valor 0 - Sentimento Negativo 
+  - Detecção de tópicos
+  - Detecção de idiomas
+  - Estração de frases chave
+  - Categorização de documento
+IA Generativa
+
+
+
+IA responsável deve ter:
+
+-Justiça ou Imparciabilidade
+-Confiabilidade e segurança
+-Privacidade e segurnaça
+-Inclusão
+-Transparencia
+-Responsabilidade
 
 Ter Imparcialidade(pode aparecer como justiça na prova da MS) - Os sistemas de IA devem tratar todas as pessoas de maneira imparcial.
 Ser confiável e segurança - Os sistemas de IA devem ser executados de forma confiável e segura.
@@ -60,7 +87,7 @@ Quais os dois princípios que você deve seguir?
 
 ---------------------------------------------------------------------------
 
-Quais são os vários canais possíveis aos quais um bot pode se conectar?
+P4 - Quais são os vários canais possíveis aos quais um bot pode se conectar?
 Selecione todas as opções corretas:
 
 [X]E-mail
@@ -70,3 +97,21 @@ Selecione todas as opções corretas:
 [X]Alexa
 
 [X]Microsoft Teams
+
+Obs.: Tudo que for digital e envolter texto ele pode ser conectado.
+
+---------------------------------------------------------------------------
+
+P5 - O que são grandes modelos de linguagem?
+
+Selecione a opção correta: 
+
+[]Modelos que funcionam apenas com pequena quantidade de dados.
+[]Modelos que funcionam apenas com um idioma.
+[X]Modelos que usam aprendizagem profunda para processar e compreender a linguagem natual em grande escala.
+
+---------------------------------------------------------------------------
+
+P6 - Complemente informações(devido limitação vou colocar as respostas em negrito)
+
+**Reconhecimento ótipo de caracteres (OCR)** extrai texto de documentos manuscritos.
