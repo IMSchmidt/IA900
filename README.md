@@ -107,7 +107,9 @@ P5 - O que são grandes modelos de linguagem?
 Selecione a opção correta: 
 
 []Modelos que funcionam apenas com pequena quantidade de dados.
+
 []Modelos que funcionam apenas com um idioma.
+
 [X]Modelos que usam aprendizagem profunda para processar e compreender a linguagem natual em grande escala.
 
 ---------------------------------------------------------------------------
@@ -115,3 +117,51 @@ Selecione a opção correta:
 P6 - Complemente informações(devido limitação vou colocar as respostas em negrito)
 
 **Reconhecimento ótipo de caracteres (OCR)** extrai texto de documentos manuscritos.
+
+---------------------------------------------------------------------------
+
+P7 - Qual tipo de carga de trabalho de inteligência artificial usa sensores para alertar proativamente os usuários sobre eventuais falhas mecânicas de equipamentos?
+
+[X]Detecção de anomalias - detecção de anomalias analisa os dados coletados ao longo de um período para identificar alterações incomuns ou seja comportamentos fora do esperado ou fora do comum, exemplo: temperatura acima do normal em um motor.
+
+[]Visual computacional
+
+[]Processamento de idioma natural
+
+[]IA conversacional
+
+---------------------------------------------------------------------------
+
+P8 - Relacione as tecnologias com as descrições corretas.
+
+**Detecção de objetos** - Identificar o local de um carro em movimento dentro de uma imagem.
+
+**Classificação de imagens** - Diferenciar os tipos de veículos de um conjunto de imagens que contém diferentes tipos de veículos.
+
+**Reconhecimento óptico de caracteres** - Detectar e ler placas de carros em ma imagem.
+
+---------------------------------------------------------------------------
+
+P9 - O princípio que descreve a conscientização sobre as limitações das soluções baseadas em IA responsável é chamado de **Transparência**.
+
+---------------------------------------------------------------------------
+
+P10 - O princípio de fornecer os benefícios dos sistemasde IA responsável para todas as partes da sociedade independentemente de gênero ou etnia, é chamado de **Inclusão**.
+
+---------------------------------------------------------------------------
+
+P11 - Você precisa identificar valores numéricos que representam a probabilidade de cães adoecerem com base na idade e no percentual de gordura corporal.
+
+Qual tipo de modelo de machine learning você deve usar?
+
+[] Regressão linear Regressão linear múltipla - usa um único recurso
+
+[X]	Regressão linear múltipla - A modelagem de relações entre vários recursos e um único rótulo é a principal característica de regressão linear múltipla.
+
+[] Regressão logística - A regressão logística é um modelo de classificação
+
+[] Cluster hierárquico -  É um tipo de algoritmo de clustering
+
+---------------------------------------------------------------------------
+
+P12 - 
