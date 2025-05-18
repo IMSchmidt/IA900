@@ -164,4 +164,23 @@ Qual tipo de modelo de machine learning você deve usar?
 
 ---------------------------------------------------------------------------
 
-P12 - 
+P12 - Relacione os algoritmos de machine learning comas descrições corretas. Em _Itálico_ estão os comentários. 
+
+**Classificação** - Atribuir itens a um conjunto de categorias predefinidas. _A classificação prevê a categoria na qual um valor de entrada deve ser categorizado._
+
+**Regreção** - Prever um rótulo numérico com base nas catacterísticas de um item. _A técnica de regreção é usada para prever valores numéricos._
+
+**Clustering** - Agrupar itens semelhantes com base nas características. _Agrupa pontos de dados que tem características semelhantes._
+
+---------------------------------------------------------------------------
+
+P13 - Selecione a resposta que conclui corretamente a frase.
+
+Você planeja usar o machine learning para prever o quão doentes cães vão ficar com base na idade e no percentual de gordura corporal.
+
+O modelo deve incluir ______________.
+
+[] três rótulos
+[] três características
+[X] duas características e um rótulo _O cenário atual representa um modelo no qual você está tentando estabelecer uma relação entre duas características (idade de um cão e percentual de gordura corporal) e um rótulo (a probabilidade de esse cão ficar doente)._
+[] dois rótulos e um recurso
