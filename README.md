@@ -181,6 +181,9 @@ Você planeja usar o machine learning para prever o quão doentes cães vão fic
 O modelo deve incluir ______________.
 
 [] três rótulos
+
 [] três características
-[X] duas características e um rótulo _O cenário atual representa um modelo no qual você está tentando estabelecer uma relação entre duas características (idade de um cão e percentual de gordura corporal) e um rótulo (a probabilidade de esse cão ficar doente)._
+
+[X] duas características e um rótulo - _O cenário atual representa um modelo no qual você está tentando estabelecer uma relação entre duas características (idade de um cão e percentual de gordura corporal) e um rótulo (a probabilidade de esse cão ficar doente)._
+
 [] dois rótulos e um recurso
