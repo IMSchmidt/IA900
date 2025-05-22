@@ -45,6 +45,18 @@ Transparente - Os sistemas de IA devemser compreensíveis.
 Responsabilização - As pessoas devem assumir a responsabilidade por sistemas de IA.
 
 
+Quando usar o AutoML ou Automated Machine Learning?
+Aplique o AutoML automatizado quando quiser que o Azure Machine Learning treine e ajuste um modelo para você usando a métrica de destino específica. O ML automatizado democratiza o precesso de desenvolvimento od modelo de aprendizado de máquina e capacita seus usuários, independentemente de sua experiência em ciência de dados, a indentificar um pipeline de aprendizado de máquina de ponta a ponta para qualquer problema.
+
+Profissionais e desenvolvedores de ML de todos os setores podem usar ML automatizado para:
+
+  - Implementar soluções de ML sem amplo conhecimento de programação
+  - Economizar tempo e recursos
+  - Aplicar as melhores práticas de ciência de dados
+  - Fornece solução ágil de problemas
+
+
+
 As respostas erradas podem conter informações corretas por isso são comentadas na maioria das vezes. Os comentários estão após o hifen em itálico. 
 
 
