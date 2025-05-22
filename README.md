@@ -59,6 +59,9 @@ Profissionais e desenvolvedores de ML de todos os setores podem usar ML automati
 
 As respostas erradas podem conter informações corretas por isso são comentadas na maioria das vezes. Os comentários estão após o hifen em itálico. 
 
+Como funciona o AutoML?
+
+Durante o treinamento, o Azure Machine Learning cria muitos pipelines em paralelo que testam diferentes algoritmos e parâmetris para você. o Serviço itera por meio de algoritmos de ML emparelhados com seleções de recursos, onde cada iteração produz um modelo com uma pontuação de treinamento. Quanto melhor for a pontuação da métrica que você deseja otimizar, melhor será considerado que o modelo "se ajusta" aos seus dados. Ele para quando atinge os critérios de saída definidos no experimento. 
 
 
 
