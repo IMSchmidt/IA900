@@ -136,3 +136,14 @@ O modelo deve incluir ______________.
 [X] duas características e um rótulo - _O cenário atual representa um modelo no qual você está tentando estabelecer uma relação entre duas características (idade de um cão e percentual de gordura corporal) e um rótulo (a probabilidade de esse cão ficar doente)._
 
 [] dois rótulos e um recurso
+
+---------------------------------------------------------------------------
+
+P14 - O Automated Machine Learning funciona executando várias iterações de treinamento que são pontuadas e classificadas pelas métricas que você especifíca.
+
+Selecione a opção correta:
+
+[X] Verdadeiro
+[] Falso
+
+Obs. Automated Machine Learning ou AutoML ele faz várias iterações de treinamento para pontuar e classificar. Ou seja ele é usado para treinar e ajustar um modelo
