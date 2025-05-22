@@ -144,6 +144,22 @@ P14 - O Automated Machine Learning funciona executando várias iterações de tr
 Selecione a opção correta:
 
 [X] Verdadeiro
+
 [] Falso
 
 Obs. Automated Machine Learning ou AutoML ele faz várias iterações de treinamento para pontuar e classificar. Ou seja ele é usado para treinar e ajustar um modelo
+
+---------------------------------------------------------------------------
+
+P15 - Você tem que prever o número de cartões-presentes que serão vendidos no próximo ano.
+
+Que tipo de aprendizado de máquina você deve 
+usar?
+
+[] Agrupamento - _Clustering usado quando não se tem um alvo, não quer prever números ou classicar algo, a própria IA separa por grupo. Não superviszionado._
+
+[X] Regressão - _Usa dados históricos para prever valores futuros. Aprendizado supervizionado._
+
+[] Classificação - _Quando quero classificar por tipo ou valor por exemplo. Aprendizado supervizionado._
+
+
