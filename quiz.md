@@ -162,4 +162,189 @@ usar?
 
 [] Classificação - _Quando quero classificar por tipo ou valor por exemplo. Aprendizado supervizionado._
 
+---------------------------------------------------------------------------
 
+P16 - Você criou um modelo de classificação multiclasse.
+
+Você precisa avaliar o modelo.
+
+Quais as duas métricas de avaliação que você pode usar? Cada resposta correta apresenta uma solução completa.
+
+[X] Medida f
+
+[X] Precisão
+
+[] Índice Rand
+
+[] EQM(erro  quadrático médio)
+
+---------------------------------------------------------------------------
+
+P17 - Selecione a resposta que conclui corretamente a frase.
+
+Você treinou um modelo do Azure Machine Learning e planeja implantá-lo como um serviço preditivo em um ambiente de produção.
+
+Você precisa criar um cluster de inferência antes de implantar o modelo em ________________.
+
+[X] Serviço de Kubernetes do Azure - No Azure Machine Learning, você tem a opção de implantar um serviço preditivo na ACI (Instância de Contêiner do Azure) em ambientes de teste ou AKS (Serviço de Kubernetes do Azure) em ambientes produtivos.
+
+[] Azure Container instance
+
+[] Azure function
+
+[] Aplicativos lógicos do azure
+
+---------------------------------------------------------------------------
+
+P18 - Você planeja criar e implantar um modelo preditivo usando a interface do usuário AutoML no Azure Machine Learning.
+
+Quais as três tarefas de machine learning que têm suporte? Cada resposta correta apresenta uma solução completa.
+
+[X] Classificação 
+
+[X] Regressão
+
+[] Previsão
+
+[] Clustering
+
+[X] Aprendizado por reforço
+
+---------------------------------------------------------------------------
+
+P19 - Qual técnica serve como base para soluções modernas de classificação de imagem?
+
+[X] Aprendizado
+
+[] Detecção de anomalias
+
+[] Regressão linear
+
+[] Regressão linear múltipla
+
+---------------------------------------------------------------------------
+
+P20 - Selecione a resposta que conclui corretamente a frase.
+
+Você pode extrair informações impressas em rótulos de produtos alimentares usando _________________.
+
+[] classificação de imagem
+
+[] processamento de idioma natural
+
+[X] reconhecimento óptico de caracteres
+
+[] segmentação de imagens
+
+---------------------------------------------------------------------------
+
+P21 - Quais são as duas funcionalidades do serviço de Pesquisa Visual Computacional do Azure? 
+
+[X] Previsão de classe
+
+[] Treinamento do modelo
+
+[] Criação de modelos
+
+[X] Visualização de dados
+
+[X] Exploração de dados
+
+---------------------------------------------------------------------------
+
+P22 - Você precisa treinar um modelo de machine learning para detectar logotipos da empresa em imagens.
+
+O que você deve usar?
+
+[] Classificação de imagem da Visão Personalizada do Azure
+
+[X] Detecção de objetos da Visão Personalizada do Azure
+
+[] Serviço de Detecção Facial do Azure
+
+[] erviço Inteligente de Reconhecimento Vocal (LUIS)
+
+---------------------------------------------------------------------------
+
+P23 - Relacione as características com as descrições corretas.
+
+**Análise de sentimento** - Determinar se o conteúdo de um documento é positivo ou negativo
+**Extração de frases-chave** - Avaliar os principais pontos do texto em um documento.
+**Reconhecimento de entidade nomeada** - 	
+Identificar palavras em documentos que representem pessoas, locais ou organizações
+
+---------------------------------------------------------------------------
+
+P24 - Você precisa coletar os nomes de pessoas, organizações e eventos com base em um conjunto de documentos PDF.
+
+Qual recurso de processamento de linguagem natural você deve usar?
+
+[] Resumo extrativo
+
+[] Análise de sentimento
+
+[X] Reconhecimento de entidade nomeada
+
+[] Extração de frases-chave
+
+---------------------------------------------------------------------------
+
+P25 - Quais os três recursos aos quais o serviço de Análise de Texto dos Serviços Cognitivos do Azure dá suporte? 
+
+[X] 	Tamanho ilimitado do documento
+
+[X] Todas as linguagens do mundo
+
+[X] Integração do chatbot
+
+[X] Conteúdo multilíngue
+
+[X] Pontuação de confiança
+
+---------------------------------------------------------------------------
+
+P26 - Você precisa identificar usuários com base na voz.
+
+Qual recurso do serviço de Fala do Azure você deve usar?
+
+[] Transcrição de conversa
+
+[] Avaliação de pronúncia
+
+[] Serviço Inteligente de Reconhecimento Vocal (LUIS)
+
+[X] Reconhecimento de locutor
+
+---------------------------------------------------------------------------
+
+P27 - Selecione a resposta que conclui corretamente a frase.
+
+Você pode trocar atividades de chatbot com outros serviços implementando ________________.
+
+[] cards
+
+[X] canais
+
+[] diálogo
+
+[] turnos
+
+As atividades são trocadas entre os canais, como Webchat, email ou Microsoft Teams. Cartões são elementos visuais usados para conter mensagens. A caixa de diálogo é formada por um fluxo de atividades.
+
+As atividades são executadas em turnos, levando a uma interação do usuário com um chatbot.
+
+---------------------------------------------------------------------------
+
+P28 - Você desenvolve um chatbot usando um projeto de respostas às perguntas personalizadas dos Serviços Cognitivos.
+
+Você precisa adicionar uma personalidade ao chatbot.
+
+O que você deve fazer?
+
+[] Fornecer uma resposta padrão
+
+[X] Adicionar o chitchat à base de dados de conhecimento - Use o recurso chitchat para adicionar as respostas a uma base de dados de conhecimento de chatbot.
+
+[] Aumentar o limite do tipo de preço de recurso do Cognitive Search
+
+[] Adicionar cartões hero ao chatbot
